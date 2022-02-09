@@ -1,1 +1,1 @@
-# WeatherPrediction-CDMX
+# WeatherPrediction-Tuxtla
